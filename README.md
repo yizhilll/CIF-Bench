@@ -83,7 +83,10 @@ In the public split, there is only one instruction used for each task, hence der
 - [ ] Evaluation code and prompts.
 - [ ] Public split data.
 
-## Reference
+
+## Others
+
+Contacts for any discussions can be made to [Yizhi Li](mailto:yizhi.li@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans) and [Ge Zhang](mailto:gezhang@umich.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 ```
 @article{li2024cifbench,
