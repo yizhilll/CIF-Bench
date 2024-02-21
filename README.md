@@ -1,6 +1,6 @@
 # CIF-Bench
 This is the official repo for the paper [CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models](https://arxiv.org/abs/2402.13109). 
-The [project page](https://github.com/yizhilll/CIF-Bench) has a more user-friendly UI for reading.
+The [project page](https://yizhilll.github.io/CIF-Bench/) has a more user-friendly UI for reading.
 
 ## Results
 
