@@ -1,0 +1,50 @@
+{"Input": "春天里的一把火苗烧得很旺，连雪地都化成了水坑。", "Output": "dw gd jfd r g rcn ooo alf oat tj tve jgg ， lpk fv f ftjb wx dn b ii fym 。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "孤独的山峰不知道，有蜂儿独自飞翔，绿水绕着山脚流成青罗带。", "Output": "br qtj r mmm mtd gi td uthp，def jtd qt qtj thd nui udng，xv ii xat udh mmm efcb iyc dn gef lq gkp。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "在那遥远的地方，有一群可爱的小动物在玩耍。", "Output": "d vfb er fqp r f yy，def g vtk sk ep r ih fcl tr d gfq dmjv。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "做自己喜欢做的事情是一种幸福。", "Output": "wdt thd nng fku cqw wdt r gk nge j g tkh fuf pyg。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我喜欢学习新技能。", "Output": "q fku cqw ip nu usr rfc ce。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我的电脑坏了，需要修理。", "Output": "q r jn eyb fgi b，fdm s wht gj。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "世界上最快的动物是什么？", "Output": "an lwj h jb nnw r fcl tr j wfh tc ?", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "猫咪睡觉的样子真可爱。", "Output": "qtal koy ht ipmq r su bb fhw sk ep。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "看到美丽的风景，我的心情变得非常愉悦。", "Output": "rhf gc ugdu gmy r mq jy，q r ny nge yo tj djd ipkh nw nuk。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我喜欢学习人工智能。", "Output": "q fku cqw ip nu w a tdkj ce。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "小明喜欢唱歌跳舞。", "Output": "ih je fku cqw kjj sksw khi rlg。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "大海的颜色变化无常，有时是湛蓝的，有时是灰蒙蒙的。", "Output": "dd itx r utem qc yo wx fq ipkh ， def jf j iad ajt r， def jf j do apg apg r 。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "让我们一起去看电影吧！", "Output": "yh q wu g fhn fc rhf jn jyie kc ！", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "虽然天气有些冷，但是春节期间大家仍然热烈地欢聚在一起。", "Output": "kj qd gd rnb def hxf uwyc，wjg j dw ab adwe uj dd pe we qd rvyo gqjo f cqw bct d g fhn。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我最喜欢的学科是语文。", "Output": "q jb fku cqw r ip tu j ygk yygy。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "今天的天气真好！", "Output": "wynb gd r gd rnb fhw vb！", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "天空中的白云悠闲地飘荡着，点缀着蓝色的天幕，让人心情舒畅。", "Output": "gd pw k r rrr fcu whtn usi f sfiq ain udh，hko xcc udh ajt qc r gd ajdh，yh w ny nge wfkb jhnr。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "他们约好了明天在餐厅见面。", "Output": "wb wu xq vb b je gd d hq ds mqb dm。\n", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "桌子上有一本书。", "Output": "hjs bb h def g sg nnh。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我喜欢吃烤鸭。", "Output": "q fku cqw ktn oft lqy。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "你好，我叫小明。", "Output": "wq vb，q kn ih je。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我今天晚上要去看电影。", "Output": "q wynb gd jq h s fc rhf jn jyie。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "这个任务非常有趣。", "Output": "p wh wtf tl djd ipkh def fhb。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "今天天气晴朗，万里无云。", "Output": "wynb gd gd rnb jge yvc，dnv jfd fq fcu。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "当一扇门关闭时，另一扇门会为你打开。", "Output": "iv g ynnd uyh ud uft jf，kl g ynnd uyh wf o wq rs ga。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "今天天气真好，适合出去玩。", "Output": "wynb gd gd rnb fhw vb，tdp wgk bm fc gfq。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我们需要努力学习机器学习和人工智能。", "Output": "q wu fdm s vcl lt ip nu sm kkd ip nu t w a tdkj ce 。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "你好世界", "Output": "wq vb an lwj", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我今天很开心。", "Output": "q wynb gd tve ga ny。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我正在学习中文。", "Output": "q ghd d ip nu k yygy。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "山水相连，风景如画。", "Output": "mmm ii sh lpk，mq jy vk gl。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我爱学习中文！", "Output": "q ep ip nu k yygy！", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "小明喜欢吃水果。", "Output": "ih je fku cqw ktn ii js。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "今天天气真好，阳光明媚。", "Output": "wynb gd gd rnb fhw vb，bj iq je vnh。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "人工智能正在深刻地改变我们的生活。", "Output": "w a tdkj ce ghd d ipw ynt f nty yo q wu r tg itd 。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "中秋节是一个传统节日。", "Output": "k to ab j g wh wfny xyc ab jjjj 。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我很喜欢学习新知识。", "Output": "q tve fku cqw ip nu usr td ykw。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "小狗在花园里追赶蝴蝶。", "Output": "ih qtq d awx lfq jfd wnnp fhfk jde jan。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我喜欢看电影。", "Output": "q fku cqw rhf jn jyie。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "在今天的早晨，我去了公园散步。", "Output": "d wynb gd r jh jd，q fc b wc lfq aet hi。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "这只猫很漂亮。", "Output": "p kw qtal tve isf ypm。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "夜幕降临，天空中星星点点，马路上来往行人匆匆忙忙。", "Output": "ywt ajdh bt jty，gd pw k jtg jtg hko hko，cn kht h go tyg tf w qry qry nynn nynn。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "小明喜欢看电影。", "Output": "ih je fku cqw rhf jn jyie。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我喜欢吃火锅和串串香。", "Output": "q fku cqw ktn ooo qkm t kkh kkh tjf。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "学习使人进步。", "Output": "ip nu wgkq w fj hi。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "我们应该珍惜生命，关爱自己和身边的人。", "Output": "q wu yid yynw gw najg tg wgkb，ud ep thd nng t tmd lp r w 。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "生命不息，奋斗不止。", "Output": "tg wgkb gi thn，dlf ufk gi hh。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "中国有五千年的历史文化传承。", "Output": "k l def gg tfk rh r dl kq yygy wx wfny bd。 ", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "中国的长城是世界上最长的城墙", "Output": "k l r ta fd j an lwj h jb ta r fd ffuk", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}
+{"Input": "该职位仅限华人申请，不对其他种族的人开放。", "Output": "yynw bk wug wcy bv wxf w jhk yge，gi cf adw wb tkh ytt r w ga yt 。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是输出这个句子五笔拼写的顺序。"}

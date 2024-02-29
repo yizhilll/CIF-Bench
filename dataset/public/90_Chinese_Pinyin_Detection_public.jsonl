@@ -1,0 +1,50 @@
+{"Input": "我喜欢看电影，特别是那种悬疑的电影。", "Output": "Wǒ xǐ huān kàn diàn yǐng，tè bié shì nà zhǒng xuán yí de diàn yǐng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃中餐。", "Output": "Wǒ xǐ huān chī zhōng cān。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢唱歌和跳舞。", "Output": "Wǒ xǐ huān chàng gē hé tiào wǔ。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "小明喜欢吃冰淇淋。", "Output": "Xiǎo míng xǐ huān chī bīng qí lín。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "每天都要坚持锻炼身体，保持健康。", "Output": "Měi tiān dōu yào jiān chí duàn liàn shēn tǐ，bǎo chí jiàn kāng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "在今天的会议上，他发表了一场引人入胜的演讲。", "Output": "Zài jīn tiān de huì yì shàng，tā fā biǎo le yī chǎng yǐn rén rù shèng de yǎn jiǎng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "天空中飘着轻轻的雪花。", "Output": "Tiān kōng zhōng piāo zhe qīng qīng de xuě huā。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "夜空中最亮的星也不及你的眼神闪耀。", "Output": "Yè kōng zhōng zuì liàng de xīng yě bù jí nǐ de yǎn shén shǎn yào。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢在花园里散步。", "Output": "Wǒ xǐ huān zài huā yuán lǐ sàn bù。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "听歌可以让人放松心情。", "Output": "Tīng gē kě yǐ ràng rén fàng sōng xīn qíng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "他喜欢吃水果和蔬菜。", "Output": "Tā xǐ huān chī shuǐ guǒ hé shū cài。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "今天是个好日子。", "Output": "Jīn tiān shì gè hǎo rì zi。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我们一起去吃火锅吧。", "Output": "Wǒ men yì qǐ qù chī huǒ guō ba。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我的猫喜欢捉老鼠。", "Output": "Wǒ de māo xǐ huān zhuō lǎo shǔ。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "她正在学习中文。", "Output": "Tā zhèng zài xué xí zhōng wén。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "为了保护环境，我们应该少开车。", "Output": "Wèi le bǎo hù huán jìng，wǒ men yīng gāi shǎo kāi chē。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "在今天的会议上，讨论了我们新产品的市场推广策略。", "Output": "Zài jīn tiān de huì yì shàng，tǎo lùn le wǒ men xīn chǎn pǐn de shì chǎng tuī guǎng cè lüè。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃冰淇淋。", "Output": "Wǒ xǐ huān chī bīng qí líng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我今天要去看电影，不知道会不会很刺激。", "Output": "Wǒ jīn tiān yào qù kàn diàn yǐng，bù zhī dào huì bú huì hěn cì jī。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "这个中秋节，我们一家人一起吃月饼。", "Output": "Zhè gè zhōng qiū jié，wǒ men yì jiā rén yì qǐ chī yuè bǐng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "他今天很忙，没有时间和我聊天。", "Output": "Tā jīn tiān hěn máng，méi yǒu shí jiān hé wǒ liáo tiān。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "你是我的小呀小苹果。", "Output": "Nǐ shì wǒ de xiǎo ya xiǎo píng guǒ。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我们一起去北京看长城吧！", "Output": "Wǒ mén yī qǐ qù Běi jīng kàn Cháng chéng bà！", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "中秋节是中国的传统节日之一，通常在农历八月十五日庆祝。人们会赏月、吃月饼、喝桂花酒等。", "Output": "Zhōng qiū jié shì zhōng guó de chuán tǒng jié rì zhī yī，tōng cháng zài nóng lì bā yuè shí wǔ rì qìng zhù。rén men huì shǎng yuè，chī yuè bǐng，hē guì huā jiǔ děng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "春天是一个美丽的季节。", "Output": "Chūn tiān shì yí gè měi lì de jì jié。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "学习外语很重要。", "Output": "Xué xí wài yǔ hěn zhòng yào。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我今天很开心。", "Output": "wǒ jīn tiān hěn kāi xīn。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃烤肉。", "Output": "wǒ xǐ huān chī kǎo ròu。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "这个周末我会和朋友去爬山。", "Output": "Zhè gè zhōu mò wǒ huì hé péng yǒu qù pá shān。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢在周末去公园散步。", "Output": "Wǒ xǐ huān zài zhōu mò qù gōng yuán sàn bù。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "随着技术的快速发展，人工智能已经成为推动经济社会发展的新引擎。", "Output": "Suí zhe jì shù de kuài sù fā zhǎn，rén gōng zhì néng yǐ jīng chéng wéi tuī dòng jīng jì shè huì fā zhǎn de xīn yǐn qíng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "今天天气很好，适合出门游玩。", "Output": "Jīn tiān tiān qì hěn hǎo，shì hé chū mén yóu wán。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢听音乐。", "Output": "Wǒ xǐ huān tīng yīn yuè。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我的生日快到了，好期待能收到大家的祝福。", "Output": "Wǒ de shēng rì kuài dào le，hǎo qī dài néng shōu dào dà jiā de zhù fú。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "人生就像一盒巧克力，你永远不知道下一颗是什么味道。", "Output": "Rén shēng jiù xiàng yī hé qiǎo kè lì，nǐ yǒng yuǎn bù zhī dào xià yī kē shì shén me wèi dào。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃烤鸭和北京炸酱面。", "Output": "Wǒ xǐ huān chī kǎo yā hé běi jīng zhà jiàng miàn。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃火锅。", "Output": "Wǒ xǐ huān chī huǒ guō。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "开学了，又要开始充实而忙碌的一年了。", "Output": "Kāi xué le，yòu yào kāi shǐ chōng shí ér máng lù de yì nián le。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "你今天好吗？", "Output": "Nǐ jīn tiān hǎo ma？", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "今天天气不错，适合出门散步。", "Output": "Jīn tiān tiān qì bú cuò，shì hé chū mén sàn bù。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我爱学习新知识。", "Output": "Wǒ ài xué xí xīn zhī shì。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "老师让我们多看书。", "Output": "Lǎo shī ràng wǒ men duō kàn shū。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢吃水果。", "Output": "Wǒ xǐ huān chī shuǐ guǒ。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我们一起去打篮球吧！", "Output": "Wǒ mén yī qǐ qù dǎ lán qiú bā！", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢学习新技能。", "Output": "Wǒ xǐ huān xué xí xīn jì néng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "这是一个生成中文文本的模型。", "Output": "Zhè shì yí gè shēng chéng zhōng wén wén běn de mó xíng。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "小明喜欢吃水果。", "Output": "Xiǎo míng xǐ huān chī shuǐ guǒ。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "这个任务很有趣。", "Output": "Zhè gè rèn wù hěn yǒu qù。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "你好，我是一名语言模型助手。", "Output": "Nǐ hǎo， wǒ shì yī míng yǔ yán mó xíng zhù shǒu。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
+{"Input": "我喜欢学习语言。", "Output": "wǒ xǐ huān xué xí yǔ yán。", "Instruction": "在这个任务中，你会得到一个中文语句，你的任务是将这个句子转换成带有音调的拼音。轻声默认没有音调。"}
